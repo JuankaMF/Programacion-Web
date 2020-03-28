@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{                               /*selector de etiquera */
+    background: #111111;
+    color: #ffffff;
+    text-align: left;
+    font-family: helvetica;
+}
+
+#conteiner{
+    width: 75%;
+    border: 1px solid gray;
+    margin:auto;
+    padding: 0;
+    display: ;
+}
+
+#header{
+    background-color:#1b2117;
+    color: #ffffff;
+    list-style-position: inside;
+}
+#header a{
+    color: #ffffff;
+    text-decoration:none
+}
+
+#h1{
+    text-align: left;
+    line-height: 1.5;
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 780;
+}
+
+#h1 .texto{
+    font-weight: 780;
+    color:#026fff;
+}
+#imageFondo{
+    height: 200px;
+    background-image: url(images/carlos.png);
+    background-color: #1b2117;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: 300px;
+}
+
